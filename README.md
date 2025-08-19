@@ -1,4 +1,4 @@
-# Tarea_github
+## Tarea_github
 Este repositorio fue creado como parte de mi tarea.  
 
 ## Contenido  
