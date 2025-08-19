@@ -6,7 +6,7 @@ Este repositorio fue creado como parte de mi tarea.
 - Ejemplo de repositorio público en GitHub  
 
 ## Autor  
--Verónica Andrea Jiménez Meléndez
--Fundamentos de la Programación
--Primer Nivel
--24/08/2025
+- Verónica Andrea Jiménez Meléndez
+- Fundamentos de la Programación
+- Primer Nivel
+- 24/08/2025
