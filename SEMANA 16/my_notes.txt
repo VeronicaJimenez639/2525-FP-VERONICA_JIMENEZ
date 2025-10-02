@@ -1,0 +1,4 @@
+Nota 1: Repasar derivadas.
+Nota 2: Organizar el tiempo con Pomodoro antes de las evaluaciones.
+Nota 3: Practicar ejercicios de Python con archivos.
+ 
